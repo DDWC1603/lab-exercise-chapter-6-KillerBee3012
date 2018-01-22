@@ -1,15 +1,17 @@
-//include your name and matric number here
-//display the string below using the string function state below.
+//NAME : AIDIL SUFFIAN BIN ABU BAKAR
+//STUDENT ID : A17DW2253
 
 #include <iostream>
+#include <string>
+using namespace std;
 
 int main()
 {
-	char engkau[10];
+	string char1 = "engkau";
 
 	//stringcopy(a,"hello");
 	
-	cout<<engkau;
+	cout<<char1;
 
 	return 0;
 }
